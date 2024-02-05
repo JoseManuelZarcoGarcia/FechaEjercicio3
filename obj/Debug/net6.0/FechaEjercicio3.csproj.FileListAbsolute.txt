@@ -1,0 +1,14 @@
+C:\Users\csi22-jzarcia\source\repos\FechaEjercicio3\bin\Debug\net6.0\FechaEjercicio3.exe
+C:\Users\csi22-jzarcia\source\repos\FechaEjercicio3\bin\Debug\net6.0\FechaEjercicio3.deps.json
+C:\Users\csi22-jzarcia\source\repos\FechaEjercicio3\bin\Debug\net6.0\FechaEjercicio3.runtimeconfig.json
+C:\Users\csi22-jzarcia\source\repos\FechaEjercicio3\bin\Debug\net6.0\FechaEjercicio3.dll
+C:\Users\csi22-jzarcia\source\repos\FechaEjercicio3\bin\Debug\net6.0\FechaEjercicio3.pdb
+C:\Users\csi22-jzarcia\source\repos\FechaEjercicio3\obj\Debug\net6.0\FechaEjercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-jzarcia\source\repos\FechaEjercicio3\obj\Debug\net6.0\FechaEjercicio3.AssemblyInfoInputs.cache
+C:\Users\csi22-jzarcia\source\repos\FechaEjercicio3\obj\Debug\net6.0\FechaEjercicio3.AssemblyInfo.cs
+C:\Users\csi22-jzarcia\source\repos\FechaEjercicio3\obj\Debug\net6.0\FechaEjercicio3.csproj.CoreCompileInputs.cache
+C:\Users\csi22-jzarcia\source\repos\FechaEjercicio3\obj\Debug\net6.0\FechaEjercicio3.dll
+C:\Users\csi22-jzarcia\source\repos\FechaEjercicio3\obj\Debug\net6.0\refint\FechaEjercicio3.dll
+C:\Users\csi22-jzarcia\source\repos\FechaEjercicio3\obj\Debug\net6.0\FechaEjercicio3.pdb
+C:\Users\csi22-jzarcia\source\repos\FechaEjercicio3\obj\Debug\net6.0\FechaEjercicio3.genruntimeconfig.cache
+C:\Users\csi22-jzarcia\source\repos\FechaEjercicio3\obj\Debug\net6.0\ref\FechaEjercicio3.dll
