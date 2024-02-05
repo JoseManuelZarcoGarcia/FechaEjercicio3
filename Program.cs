@@ -11,9 +11,21 @@
 
             DateTime dateTime = DateTime.Now;
 
-            DateTime dateTime2 = dateTime.AddDays(1).AddMonths(24).AddYears(anyos);
+            DateTime dateTime2 = dateTime.AddDays(1).AddMonths(-24).AddYears(anyos);
 
             Console.WriteLine(dateTime2.ToString());
+            int comprobacion = dateTime2.CompareTo(dateTime);
+            Console.WriteLine(comprobacion);
+
+
+            if (comprobacion > 0)
+            {
+                Console.WriteLine("El hoy es más grande");
+            }
+            else
+            {
+                Console.WriteLine("escribe lo que quieras");
+            }
             
         }
 
